@@ -7,12 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-¤·¤µ¤·¤»¤»¤»
+ã—ã•ã—ã›ã›ã›
 
-10:33 ¹Ì³áÀÌ°¡ ¼öÁ¤
 
-ÀÚ ÀçÈñ°¡ ¼öÁ¤Çß´Âµ¥ ¹ÎÇõÀÌ ³òºÏ¿¡¼­ ¶ã°ÍÀÎÁö? 
-
-¹ÎÇõ ºê·£Ä¡
 </body>
 </html>
